@@ -8,7 +8,7 @@ I'm student at Işık University on management information systems department 2 
 
 *   🌍  I'm based in Istanbul.
 *   ✉️  You can contact me at [day.emir@hotmail.com](mailto:day.emir@hotmail.com)
-*   🧠  I'm learning Java Springboot now.
+*   🧠  I'm working on Rust now.
 *   🤝  I'm open to collaborating on everything.
 
 *   ### Skills 
