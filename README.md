@@ -1,4 +1,4 @@
-Hi 👋 My name is Emirhan DAY
+Hi 👋 My name is Emirhan
 ============================
 
 Management Information System Student
